@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+requests
+ccxt
+pyupbit
+lxml
+openpyxl
+xlrd
